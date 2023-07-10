@@ -56,7 +56,6 @@ font-weight: 800;
 /* part two css */
 .section-3-sum{
     width: 1920px;
-    height: 4867px;
     background-color: #FFF;;
 }
 
@@ -145,3 +144,41 @@ font-weight: 800;
     text-decoration-line: underline;
 
 }
+/*CSS of  Service Section */
+.service{
+    margin-left: 240px;
+    margin-right: 240px;
+    background: rgba(39, 39, 39, 0.05); 
+    width: 1440px;
+    height: 320px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 130px;
+    padding-bottom: 0;
+}
+
+.service-name{
+    display: flex;
+    justify-content: space-around;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+   
+    
+
+}
+#service-img-one{
+    padding-left: 140px;
+}
+
+#service-img-two{
+    padding-left: 120px;
+}
+#service-img-three{
+    padding-left: 60px;
+}
+
+/* Hot Deal Part's CSS */
