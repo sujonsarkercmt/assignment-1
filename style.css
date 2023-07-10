@@ -53,4 +53,49 @@ font-weight: 800;
 
 
 }
+/* part two css */
+.section-3-sum{
+    width: 1920px;
+    height: 4867px;
+    background-color: rgb(243, 238, 168);
+}
 
+.content-of-section-3{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 240px;
+    margin-right: 240px;
+    background-color: aliceblue;
+}
+
+.section-3-imgs{
+    width: 464px;
+    height: 538px;
+    background-color: #272727;
+    border-radius: 300px 300px 0px 0px;
+}
+#img-one-of-three{
+    
+    width: 310px;
+    height: 428px;
+    padding-bottom: 0;
+    margin-top: 110px;
+    margin-left: 55px;
+
+
+}
+#img-two-of-three{
+    width: 310px;
+    height: 428px;
+    padding-bottom: 0;
+    margin-top: 110px;
+    margin-left: 70px;
+}
+#img-three-of-three{
+    width: 370px;
+    height: 370px;
+    padding-bottom: 0;
+    margin-top: 110px;
+    margin-left: 50px;
+
+}
