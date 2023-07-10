@@ -57,7 +57,7 @@ font-weight: 800;
 .section-3-sum{
     width: 1920px;
     height: 4867px;
-    background-color: rgb(243, 238, 168);
+    background-color: #FFF;;
 }
 
 .content-of-section-3{
@@ -65,15 +65,28 @@ font-weight: 800;
     justify-content: space-around;
     margin-left: 240px;
     margin-right: 240px;
-    background-color: aliceblue;
+    background-color: #FFF;;
 }
 
 .section-3-imgs{
     width: 464px;
     height: 538px;
-    background-color: #272727;
+    background-color: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
 }
+.section-2-imgs{
+    width: 464px;
+    height: 538px;
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+.section-1-imgs{
+    width: 464px;
+    height: 538px;
+    background-color: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+
 #img-one-of-three{
     
     width: 310px;
@@ -97,5 +110,38 @@ font-weight: 800;
     padding-bottom: 0;
     margin-top: 110px;
     margin-left: 50px;
+
+}
+.content-of-section-5{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 100px;
+
+}
+.section-two-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+
+.section-three-title{
+    margin-left: 240px;
+    margin-right: 240px;
+    display: flex;
+    justify-content: space-around;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
 
 }
