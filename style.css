@@ -182,3 +182,56 @@ font-weight: 800;
 }
 
 /* Hot Deal Part's CSS */
+.section-fourth{
+    width: 1920px;
+    height: 620px;
+    border-radius: 8px;
+    background :rgba(229, 84, 115, 0.05);
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.section-fourth-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+}
+
+.section-fourth-contant{
+    margin-top: 200px;
+    justify-content: center;
+    margin-left: 200px;
+}
+span{
+    color: #E55473;
+    
+}
+.section-fourth-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    width: 600px;
+
+}
+.section-fourth-button{
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    margin-left: 200px;
+}
+#section-fourth-img{
+    margin-top:130px ;
+    margin-right: 200px;
+}
